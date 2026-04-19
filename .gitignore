@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.db-journal
+*.sqlite3
+*.log
+.pytest_cache/
+.parquet_staging/
